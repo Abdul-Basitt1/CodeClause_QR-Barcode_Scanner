@@ -1,0 +1,19 @@
+*.iml
+.gradle
+/local.properties
+/.idea/caches
+/.idea/libraries
+/.idea/modules.xml
+/.idea/workspace.xml
+/.idea/navEditor.xml
+/.idea/assetWizardSettings.xml
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+.cxx
+/app/src/main/java/com/czlucius/scan/dump.txt // Do not remove
+/app/src/main/java/com/czlucius/scan/translators // Translators still under development, do not push/commit for now
+/app/release
+/app/src/main/java/com/czlucius/scan/callbacks/ActivityResultCallback.java
+/app/obfuscation
